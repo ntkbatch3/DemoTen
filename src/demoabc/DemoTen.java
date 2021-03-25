@@ -5,14 +5,14 @@ public class DemoTen {
 	public static void main(String[] args) {
 		
 
-		int aaa = 10;
-		int bbb = 11;
+		int aaaa = 10;
+		int bbbb = 11;
 		
-		System.out.println(aaa+bbb);
+		System.out.println(aaaa+bbbb);
 	}
 
 	
 	public static void add() {
-		System.out.println(1+2);
+		System.out.println(11+22);
 	}
 }
