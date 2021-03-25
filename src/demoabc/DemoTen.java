@@ -5,7 +5,7 @@ public class DemoTen {
 	public static void main(String[] args) {
 		
 
-		int aaaa = 10;
+		int aaaa = 101;
 		int bbbb = 11;
 		
 		System.out.println(aaaa+bbbb);
@@ -17,6 +17,6 @@ public class DemoTen {
 	}
 	
 	public static void minus() {
-		System.out.println(1-1);
+		System.out.println(11-1);
 	}
 }
