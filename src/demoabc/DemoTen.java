@@ -11,4 +11,8 @@ public class DemoTen {
 		System.out.println(aa+bb);
 	}
 
+	
+	public static void add() {
+		System.out.println(1+2);
+	}
 }
