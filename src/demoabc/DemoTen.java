@@ -19,4 +19,9 @@ public class DemoTen {
 	public static void minus() {
 		System.out.println(1-1);
 	}
+	
+	
+	public static void div() {
+		System.out.println(2/1);
+	}
 }
