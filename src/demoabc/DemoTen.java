@@ -4,10 +4,11 @@ public class DemoTen {
 	
 	public static void main(String[] args) {
 		
-		int ac = 10;
-		int bc = 11;
+
+		int aa = 10;
+		int bb = 11;
 		
-		System.out.println(ac+bc);
+		System.out.println(aa+bb);
 	}
 
 }
