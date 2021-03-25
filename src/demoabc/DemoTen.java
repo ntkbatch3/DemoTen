@@ -15,4 +15,8 @@ public class DemoTen {
 	public static void add() {
 		System.out.println(1+2);
 	}
+	
+	public static void minus() {
+		System.out.println(1-1);
+	}
 }
