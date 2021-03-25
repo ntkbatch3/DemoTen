@@ -5,10 +5,10 @@ public class DemoTen {
 	public static void main(String[] args) {
 		
 
-		int aaaa = 101;
-		int bbbb = 11;
+		int aaaaa = 101;
+		int bbbbb = 11;
 		
-		System.out.println(aaaa+bbbb);
+		System.out.println(aaaaa+bbbbb);
 	}
 
 	
